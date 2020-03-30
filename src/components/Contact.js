@@ -19,7 +19,7 @@ class Contact extends Component {
                     </p>
                     </Cell>
                     <Cell col={6}>
-                        <h1>Contact Me</h1>
+                        <h1>Contact</h1>
                         <hr />
 
 
